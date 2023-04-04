@@ -1,4 +1,5 @@
-#sistem  de cadastro de jogos
+#  sistema de cadastro de jogos
+
 
 >status do projeto: em desenvolvimento.
 
